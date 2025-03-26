@@ -59,12 +59,12 @@ check the box before merging the PR.
 ## Testing of Changes
 - [ ] Testing results have been verified as complete and covering all aspects of the change.
 - [ ] Evidence of testing attached
-- [ ] Brakeman results are passing
-- [ ] Bundle Audit is passing
+- [ ] Security scans are passing
+- [ ] No package vulnerabilities introduced
 
-
-## Rollback Plan
-- [ ] Rollback is to previous build. The last build is :
+## Change Rollback Plan
+- [ ] Change is using a feature flag - flip <FLAG> off to disable
+- [ ] Rollback is to previously deployed version
 
 <!--
 Outline the steps you have performed to ensure this change is
