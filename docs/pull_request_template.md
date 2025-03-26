@@ -56,6 +56,16 @@ check the box before merging the PR.
 - Document risk mitigation stratergies that are in-place or impact your decision.
 -->
 
+## Testing of Changes
+- [ ] Testing results have been verified as complete and covering all aspects of the change.
+- [ ] Evidence of testing attached
+- [ ] Brakeman results are passing
+- [ ] Bundle Audit is passing
+
+
+## Rollback Plan
+- [ ] Rollback is to previous build. The last build is :
+
 <!--
 Outline the steps you have performed to ensure this change is
 well tested and others can reproduce.
