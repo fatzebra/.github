@@ -1,10 +1,11 @@
-## 📝 PR Description
+## 📝 Description
 <!-- Link to the ticket for this work -->
-- Jira ticket: https://jira.atlassian.net/browse/JIRA-000
+Jira ticket: <JIRA_Ticket_URL>
 
 <!-- What and why is this change being made? -->
-- Details of change
-  - <CHANGE_DETAIL_1>
+Details of change
+
+- <CHANGE_DETAIL_1>
 
 ## Change Rollback Plan
 - < Roll Back Step 1>
