@@ -4,7 +4,6 @@ Jira ticket: <JIRA_Ticket_URL>
 
 <!-- What and why is this change being made? -->
 Details of change
-
 - <CHANGE_DETAIL_1>
 
 ## Change Rollback Plan
