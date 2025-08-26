@@ -1,4 +1,3 @@
-## 📝 Description
 <!-- Link to the ticket for this work -->
 Jira ticket: <JIRA_Ticket_URL>
 
