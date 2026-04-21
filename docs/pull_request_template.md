@@ -49,22 +49,23 @@ What do you expect in a review?
 Author of the PR should verify each of the following statements is true and
 check the box before merging the PR.
 -->
-## Change Checklist
+## Change Requirements
 
-The following must be reviewed and signed off by the creator of the PR. To sign off review and check each
+By merging or approving this Pull Request the change must align with the standards outlined below. If any of these 
+requirements aren't met then a justification must be included outlining why.
 
 ## 🔑 Security
-- [ ] Security of any environment is not reduced by this change.
-- [ ] All existing security controls remain in place or have been replaced with equal or stronger controls.
+- Security of any environment is not reduced by this change.
+- All existing security controls remain in place or have been replaced with equal or stronger controls.
 
 ## Testing of Changes
-- [ ] Testing results have been verified as complete and covering all aspects of the change.
-- [ ] Evidence of testing attached
-- [ ] Security scans are passing
-- [ ] No package vulnerabilities introduced
+- Testing results have been verified as complete and covering all aspects of the change.
+- Evidence of testing attached
+- Security scans are passing
+- No package vulnerabilities introduced
 
 ## 🔎 Quality assurance
-- [ ] Reviewed this PR myself
-- [ ] Automated tests are required and included
-- [ ] Security controls have been reviewed
-- [ ] Changes are Blue-Green friendly
+- Reviewed this PR myself
+- Automated tests are required and included
+- Security controls have been reviewed
+- Changes are Blue-Green friendly
